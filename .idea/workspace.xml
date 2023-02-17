@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbbe584f-d938-4ef2-83ea-c31a122f82f4" name="Changes" comment="VersionPeliculas1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/VisualizacionDecitasDePeliculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/VisualizacionDecitasDePeliculas.java" afterDir="false" />
+    <list default="true" id="cbbe584f-d938-4ef2-83ea-c31a122f82f4" name="Changes" comment="Ejercicio10">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676667962511</updated>
       <workItem from="1676667963876" duration="89000" />
-      <workItem from="1676668055366" duration="2654000" />
+      <workItem from="1676668055366" duration="4446000" />
     </task>
     <task id="LOCAL-00001" summary="Version1">
       <created>1676668180596</created>
@@ -103,7 +104,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676670845522</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="VersionPeliculas2">
+      <created>1676671205480</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676671205480</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ejercicio9">
+      <created>1676671303893</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676671303893</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ejercicio10">
+      <created>1676671438329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676671438329</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +150,9 @@
     <MESSAGE value="Ejercicio5" />
     <MESSAGE value="Ejercicio6" />
     <MESSAGE value="VersionPeliculas1" />
-    <option name="LAST_COMMIT_MESSAGE" value="VersionPeliculas1" />
+    <MESSAGE value="VersionPeliculas2" />
+    <MESSAGE value="Ejercicio9" />
+    <MESSAGE value="Ejercicio10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio10" />
   </component>
 </project>

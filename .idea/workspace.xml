@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbbe584f-d938-4ef2-83ea-c31a122f82f4" name="Changes" comment="Ejercicio6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/VisualizacionDecitasDePeliculas.java" afterDir="false" />
+    <list default="true" id="cbbe584f-d938-4ef2-83ea-c31a122f82f4" name="Changes" comment="VersionPeliculas1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/VisualizacionDecitasDePeliculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/VisualizacionDecitasDePeliculas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676667962511</updated>
       <workItem from="1676667963876" duration="89000" />
-      <workItem from="1676668055366" duration="2346000" />
+      <workItem from="1676668055366" duration="2654000" />
     </task>
     <task id="LOCAL-00001" summary="Version1">
       <created>1676668180596</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676670653919</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="VersionPeliculas1">
+      <created>1676670845522</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676670845522</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +127,7 @@
     <MESSAGE value="Ejercicio4" />
     <MESSAGE value="Ejercicio5" />
     <MESSAGE value="Ejercicio6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio6" />
+    <MESSAGE value="VersionPeliculas1" />
+    <option name="LAST_COMMIT_MESSAGE" value="VersionPeliculas1" />
   </component>
 </project>

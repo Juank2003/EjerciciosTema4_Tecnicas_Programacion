@@ -33,7 +33,7 @@ public class NotaMedia {
 
 }*/
 
-
+/*
 import java.util.Scanner;
 
 public class NotaMedia {
@@ -68,4 +68,51 @@ public class NotaMedia {
 
     }
 
+}*/
+
+import java.util.Scanner;
+
+public class NotaMedia {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        double suma = 0;
+
+        int numNotas = 0;
+
+        int numNotasSuperiores = 0;
+
+        System.out.println("Introduzca la nota (-1 para terminar):");
+
+        double nota = sc.nextDouble();
+
+        while (nota != -1) {
+
+            suma = suma + nota;
+
+            numNotas++;
+
+            if (nota >= 10) {
+
+                numNotasSuperiores++;
+
+            }
+
+            System.out.println("Introduzca la nota (-1 para terminar):");
+
+            nota = sc.nextDouble();
+
+        }
+
+        double media = suma / numNotas;
+
+        double porcentaje = (double) numNotasSuperiores / numNotas * 100;
+
+        System.out.println("La media es " + media + " (" + porcentaje + "% ≥10)");
+
+    }
+
 }
+
